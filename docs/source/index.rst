@@ -1,17 +1,15 @@
-Welcome to Lumache's documentation!
+Welcome to the Stable Agent documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Stable Agents** is a Python library designed to reduce AI hallucinations and improve the output of LLM's. 
+The Stable Agents API is an intutitive way to build agents in production with the uptime and reliability
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development and will be going online January 2021.
 
 Contents
 --------
