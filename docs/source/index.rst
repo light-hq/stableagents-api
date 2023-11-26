@@ -10,11 +10,3 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development and will be going online January 2021.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
